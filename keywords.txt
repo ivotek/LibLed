@@ -1,0 +1,10 @@
+#######################################
+# Syntax Coloring Map For LEDLIB
+#######################################
+
+LibLed	KEYWORD1
+
+init    KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+blink	KEYWORD2
